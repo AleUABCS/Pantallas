@@ -5,4 +5,4 @@
 
 ## Archivos del proyecto
 
-- [MainActivity.kt](https://github.com/AleUABCS/Pantallas/blob/main/app/src/main/java/com/example/pantallas/MainActivity.kt)
+- [Pantallas](https://github.com/AleUABCS/Pantallas/tree/main/app/src/main/java/com/example/pantallas/screens)
